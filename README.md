@@ -8,18 +8,19 @@ A maintained index of GitHub projects related to agent skills with at least 100,
 
 | Project | Stars | Description |
 | --- | --- | --- |
-| [obra/superpowers](https://github.com/obra/superpowers) | 310,951 | Agentic skills framework and software development methodology. |
-| [mattpocock/skills](https://github.com/mattpocock/skills) | 309,717 | Skills for real engineers, straight from the author's .agents directory. |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 228,302 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations. |
-| [anthropics/skills](https://github.com/anthropics/skills) | 186,593 | Anthropic's public repository for Agent Skills. |
-| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 182,529 | Makes your AI agent think like the laziest senior dev in the room. |
-| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 144,068 | An AI skill that provides design intelligence for building professional UI/UX. |
-| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 143,730 | 100+ AI agents, agent skills and RAG apps, free and open source. |
-| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 116,844 | Viral skill and proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
-| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 112,677 | Production-grade engineering skills for AI coding agents. |
-| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 110,235 | Plugin giving agents persistent memory across sessions; works with Claude Code, OpenClaw, Codex, Gemini and more. |
-| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 108,303 | Agent skills that give coding agents taste: art direction, reference images and a browser check. |
-| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 100,003 | The design vocabulary for your coding agent; skills to steer, critique and audit UI work. |
+| [mattpocock/skills](https://github.com/mattpocock/skills) | 323,748 | Skills for real engineers, straight from the author's .agents directory. |
+| [obra/superpowers](https://github.com/obra/superpowers) | 317,200 | Agentic skills framework and software development methodology. |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | 232,848 | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations. |
+| [anthropics/skills](https://github.com/anthropics/skills) | 194,105 | Anthropic's public repository for Agent Skills. |
+| [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | 190,316 | Makes your AI agent think like the laziest senior dev in the room. |
+| [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 149,064 | An AI skill that provides design intelligence for building professional UI/UX. |
+| [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 144,578 | 100+ AI agents, agent skills and RAG apps, free and open source. |
+| [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) | 119,682 | Viral skill and proxy for coding agents that cuts 65% of tokens by talking like a caveman. |
+| [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | 117,110 | Production-grade engineering skills for AI coding agents. |
+| [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) | 116,817 | Plugin giving agents persistent memory across sessions; works with Claude Code, OpenClaw, Codex, Gemini and more. |
+| [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) | 114,983 | Agent skills that give coding agents taste: art direction, reference images and a browser check. |
+| [pbakaus/impeccable](https://github.com/pbakaus/impeccable) | 109,524 | The design vocabulary for your coding agent; skills to steer, critique and audit UI work. |
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 100,006 | A program.md behavior file guides an autonomous agent through single-GPU training experiments. |
 
 ## Watchlist
 
@@ -27,8 +28,8 @@ Projects related to agent skills below the 100,000-star threshold. Added to the 
 
 | Project | Stars | Description |
 | --- | --- | --- |
-| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 3,500 | Uncle Bob Martin's mode skill for coding agents. |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 7,910 | Uncle Bob Martin's mode skill for coding agents. |
 
 ## Maintenance
 
-Checked every 5 minutes against the GitHub API. Star counts last verified 2 Nov 2026, 8:38 pm SGT.
+Checked hourly against the public GitHub API. Star counts last verified 14 Nov 2026, 5:18 am SGT. Index updates only when qualifying projects change.
